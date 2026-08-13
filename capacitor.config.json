@@ -1,0 +1,9 @@
+{
+  "appId": "com.marvel.comics",
+  "appName": "Marvel Comics",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
