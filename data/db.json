@@ -1,0 +1,1275 @@
+{
+  "users": [
+    {
+      "id": "user_peter",
+      "name": "Peter Parker",
+      "email": "peter.parker@dailybugle.com",
+      "avatar": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?auto=format&fit=crop&w=150&q=80",
+      "heroAlias": "Web-Slinger",
+      "createdAt": "2026-08-11T11:49:47.727Z"
+    },
+    {
+      "id": "user_tony",
+      "name": "Tony Stark",
+      "email": "tony@starkindustries.com",
+      "avatar": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=150&q=80",
+      "heroAlias": "Iron-Tech",
+      "createdAt": "2026-08-11T11:49:47.727Z"
+    },
+    {
+      "id": "user_guest",
+      "name": "Hero Vault Visitor",
+      "email": "guest@herovault.io",
+      "avatar": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=150&q=80",
+      "heroAlias": "Guest Collector",
+      "createdAt": "2026-08-11T11:49:47.727Z"
+    }
+  ],
+  "comics": [
+    {
+      "id": "comic_1786449210803_j91fj",
+      "userId": "user_peter",
+      "title": "Falcon & Winter Soldier (2020)",
+      "series": "Falcon & Winter Soldier (2020)",
+      "issueNumber": 1,
+      "originalFilename": "Merged (5 issues)",
+      "format": "CBR",
+      "coverImageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p001.jpg",
+      "pageCount": 114,
+      "fileSizeBytes": 234554724,
+      "tags": [
+        "Action",
+        "Superhero",
+        "Merged"
+      ],
+      "createdAt": "2026-08-11T11:57:09.364Z",
+      "updatedAt": "2026-08-11T11:57:09.364Z",
+      "isMerged": true,
+      "issues": [
+        {
+          "id": "issue_comic_1786449210803_j91fj_1",
+          "issueNumber": 1,
+          "label": "Issue 1",
+          "originalFilename": "Falcon & Winter Soldier (2020) #01 (ÜCRA).cbr",
+          "format": "CBR",
+          "startPage": 1,
+          "endPage": 22,
+          "pageCount": 22
+        },
+        {
+          "id": "issue_comic_1786449210803_j91fj_2",
+          "issueNumber": 2,
+          "label": "Issue 2",
+          "originalFilename": "Falcon & Winter Soldier (2020) #02 (ÜCRA).cbr",
+          "format": "CBR",
+          "startPage": 23,
+          "endPage": 45,
+          "pageCount": 23
+        },
+        {
+          "id": "issue_comic_1786449210803_j91fj_3",
+          "issueNumber": 3,
+          "label": "Issue 3",
+          "originalFilename": "Falcon & Winter Soldier (2020) #03 (ÜCRA).cbr",
+          "format": "CBR",
+          "startPage": 46,
+          "endPage": 68,
+          "pageCount": 23
+        },
+        {
+          "id": "issue_comic_1786449210803_j91fj_4",
+          "issueNumber": 4,
+          "label": "Issue 4",
+          "originalFilename": "Falcon & Winter Soldier (2020) #04 (ÜCRA).cbr",
+          "format": "CBR",
+          "startPage": 69,
+          "endPage": 91,
+          "pageCount": 23
+        },
+        {
+          "id": "issue_comic_1786449210803_j91fj_5",
+          "issueNumber": 5,
+          "label": "Issue 5",
+          "originalFilename": "Falcon & Winter Soldier (2020) #05 (ÜCRA).cbr",
+          "format": "CBR",
+          "startPage": 92,
+          "endPage": 114,
+          "pageCount": 23
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "page_comic_1786449210803_j91fj_1",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 1,
+      "filename": "issue_1_p001.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p001.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 1,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_2",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 2,
+      "filename": "issue_1_p002.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p002.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 2,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_3",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 3,
+      "filename": "issue_1_p003.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p003.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 3,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_4",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 4,
+      "filename": "issue_1_p004.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p004.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 4,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_5",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 5,
+      "filename": "issue_1_p005.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p005.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 5,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_6",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 6,
+      "filename": "issue_1_p006.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p006.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 6,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_7",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 7,
+      "filename": "issue_1_p007.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p007.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 7,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_8",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 8,
+      "filename": "issue_1_p008.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p008.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 8,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_9",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 9,
+      "filename": "issue_1_p009.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p009.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 9,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_10",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 10,
+      "filename": "issue_1_p010.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p010.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 10,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_11",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 11,
+      "filename": "issue_1_p011.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p011.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 11,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_12",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 12,
+      "filename": "issue_1_p012.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p012.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 12,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_13",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 13,
+      "filename": "issue_1_p013.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p013.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 13,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_14",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 14,
+      "filename": "issue_1_p014.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p014.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 14,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_15",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 15,
+      "filename": "issue_1_p015.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p015.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 15,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_16",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 16,
+      "filename": "issue_1_p016.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p016.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 16,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_17",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 17,
+      "filename": "issue_1_p017.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p017.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 17,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_18",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 18,
+      "filename": "issue_1_p018.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p018.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 18,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_19",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 19,
+      "filename": "issue_1_p019.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p019.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 19,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_20",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 20,
+      "filename": "issue_1_p020.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p020.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 20,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_21",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 21,
+      "filename": "issue_1_p021.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p021.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 21,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_22",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 22,
+      "filename": "issue_1_p022.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_1_p022.jpg",
+      "issueIndex": 0,
+      "issuePageNumber": 22,
+      "issueLabel": "Issue 1"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_23",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 23,
+      "filename": "issue_2_p001.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p001.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 1,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_24",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 24,
+      "filename": "issue_2_p002.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p002.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 2,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_25",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 25,
+      "filename": "issue_2_p003.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p003.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 3,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_26",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 26,
+      "filename": "issue_2_p004.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p004.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 4,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_27",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 27,
+      "filename": "issue_2_p005.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p005.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 5,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_28",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 28,
+      "filename": "issue_2_p006.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p006.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 6,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_29",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 29,
+      "filename": "issue_2_p007.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p007.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 7,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_30",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 30,
+      "filename": "issue_2_p008.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p008.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 8,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_31",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 31,
+      "filename": "issue_2_p009.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p009.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 9,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_32",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 32,
+      "filename": "issue_2_p010.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p010.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 10,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_33",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 33,
+      "filename": "issue_2_p011.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p011.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 11,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_34",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 34,
+      "filename": "issue_2_p012.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p012.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 12,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_35",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 35,
+      "filename": "issue_2_p013.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p013.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 13,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_36",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 36,
+      "filename": "issue_2_p014.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p014.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 14,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_37",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 37,
+      "filename": "issue_2_p015.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p015.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 15,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_38",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 38,
+      "filename": "issue_2_p016.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p016.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 16,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_39",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 39,
+      "filename": "issue_2_p017.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p017.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 17,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_40",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 40,
+      "filename": "issue_2_p018.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p018.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 18,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_41",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 41,
+      "filename": "issue_2_p019.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p019.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 19,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_42",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 42,
+      "filename": "issue_2_p020.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p020.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 20,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_43",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 43,
+      "filename": "issue_2_p021.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p021.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 21,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_44",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 44,
+      "filename": "issue_2_p022.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p022.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 22,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_45",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 45,
+      "filename": "issue_2_p023.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_2_p023.jpg",
+      "issueIndex": 1,
+      "issuePageNumber": 23,
+      "issueLabel": "Issue 2"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_46",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 46,
+      "filename": "issue_3_p001.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p001.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 1,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_47",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 47,
+      "filename": "issue_3_p002.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p002.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 2,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_48",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 48,
+      "filename": "issue_3_p003.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p003.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 3,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_49",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 49,
+      "filename": "issue_3_p004.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p004.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 4,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_50",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 50,
+      "filename": "issue_3_p005.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p005.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 5,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_51",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 51,
+      "filename": "issue_3_p006.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p006.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 6,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_52",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 52,
+      "filename": "issue_3_p007.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p007.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 7,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_53",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 53,
+      "filename": "issue_3_p008.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p008.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 8,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_54",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 54,
+      "filename": "issue_3_p009.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p009.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 9,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_55",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 55,
+      "filename": "issue_3_p010.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p010.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 10,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_56",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 56,
+      "filename": "issue_3_p011.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p011.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 11,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_57",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 57,
+      "filename": "issue_3_p012.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p012.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 12,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_58",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 58,
+      "filename": "issue_3_p013.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p013.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 13,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_59",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 59,
+      "filename": "issue_3_p014.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p014.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 14,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_60",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 60,
+      "filename": "issue_3_p015.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p015.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 15,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_61",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 61,
+      "filename": "issue_3_p016.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p016.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 16,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_62",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 62,
+      "filename": "issue_3_p017.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p017.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 17,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_63",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 63,
+      "filename": "issue_3_p018.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p018.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 18,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_64",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 64,
+      "filename": "issue_3_p019.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p019.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 19,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_65",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 65,
+      "filename": "issue_3_p020.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p020.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 20,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_66",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 66,
+      "filename": "issue_3_p021.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p021.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 21,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_67",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 67,
+      "filename": "issue_3_p022.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p022.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 22,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_68",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 68,
+      "filename": "issue_3_p023.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_3_p023.jpg",
+      "issueIndex": 2,
+      "issuePageNumber": 23,
+      "issueLabel": "Issue 3"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_69",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 69,
+      "filename": "issue_4_p001.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p001.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 1,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_70",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 70,
+      "filename": "issue_4_p002.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p002.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 2,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_71",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 71,
+      "filename": "issue_4_p003.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p003.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 3,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_72",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 72,
+      "filename": "issue_4_p004.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p004.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 4,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_73",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 73,
+      "filename": "issue_4_p005.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p005.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 5,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_74",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 74,
+      "filename": "issue_4_p006.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p006.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 6,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_75",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 75,
+      "filename": "issue_4_p007.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p007.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 7,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_76",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 76,
+      "filename": "issue_4_p008.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p008.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 8,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_77",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 77,
+      "filename": "issue_4_p009.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p009.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 9,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_78",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 78,
+      "filename": "issue_4_p010.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p010.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 10,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_79",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 79,
+      "filename": "issue_4_p011.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p011.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 11,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_80",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 80,
+      "filename": "issue_4_p012.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p012.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 12,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_81",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 81,
+      "filename": "issue_4_p013.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p013.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 13,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_82",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 82,
+      "filename": "issue_4_p014.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p014.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 14,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_83",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 83,
+      "filename": "issue_4_p015.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p015.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 15,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_84",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 84,
+      "filename": "issue_4_p016.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p016.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 16,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_85",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 85,
+      "filename": "issue_4_p017.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p017.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 17,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_86",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 86,
+      "filename": "issue_4_p018.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p018.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 18,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_87",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 87,
+      "filename": "issue_4_p019.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p019.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 19,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_88",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 88,
+      "filename": "issue_4_p020.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p020.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 20,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_89",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 89,
+      "filename": "issue_4_p021.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p021.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 21,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_90",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 90,
+      "filename": "issue_4_p022.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p022.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 22,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_91",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 91,
+      "filename": "issue_4_p023.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_4_p023.jpg",
+      "issueIndex": 3,
+      "issuePageNumber": 23,
+      "issueLabel": "Issue 4"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_92",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 92,
+      "filename": "issue_5_p001.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p001.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 1,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_93",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 93,
+      "filename": "issue_5_p002.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p002.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 2,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_94",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 94,
+      "filename": "issue_5_p003.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p003.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 3,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_95",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 95,
+      "filename": "issue_5_p004.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p004.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 4,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_96",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 96,
+      "filename": "issue_5_p005.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p005.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 5,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_97",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 97,
+      "filename": "issue_5_p006.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p006.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 6,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_98",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 98,
+      "filename": "issue_5_p007.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p007.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 7,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_99",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 99,
+      "filename": "issue_5_p008.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p008.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 8,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_100",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 100,
+      "filename": "issue_5_p009.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p009.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 9,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_101",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 101,
+      "filename": "issue_5_p010.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p010.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 10,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_102",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 102,
+      "filename": "issue_5_p011.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p011.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 11,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_103",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 103,
+      "filename": "issue_5_p012.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p012.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 12,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_104",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 104,
+      "filename": "issue_5_p013.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p013.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 13,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_105",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 105,
+      "filename": "issue_5_p014.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p014.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 14,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_106",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 106,
+      "filename": "issue_5_p015.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p015.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 15,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_107",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 107,
+      "filename": "issue_5_p016.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p016.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 16,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_108",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 108,
+      "filename": "issue_5_p017.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p017.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 17,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_109",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 109,
+      "filename": "issue_5_p018.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p018.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 18,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_110",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 110,
+      "filename": "issue_5_p019.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p019.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 19,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_111",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 111,
+      "filename": "issue_5_p020.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p020.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 20,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_112",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 112,
+      "filename": "issue_5_p021.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p021.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 21,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_113",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 113,
+      "filename": "issue_5_p022.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p022.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 22,
+      "issueLabel": "Issue 5"
+    },
+    {
+      "id": "page_comic_1786449210803_j91fj_114",
+      "comicId": "comic_1786449210803_j91fj",
+      "pageNumber": 114,
+      "filename": "issue_5_p023.jpg",
+      "imageUrl": "https://xswqxbglozbtpgbsidsn.supabase.co/storage/v1/object/public/comic-vault/comics/comic_1786449210803_j91fj/pages/issue_5_p023.jpg",
+      "issueIndex": 4,
+      "issuePageNumber": 23,
+      "issueLabel": "Issue 5"
+    }
+  ],
+  "progress": [
+    {
+      "id": "prog_1786449429364_62qyt",
+      "userId": "user_peter",
+      "comicId": "comic_1786449210803_j91fj",
+      "currentPage": 27,
+      "totalPages": 114,
+      "completed": false,
+      "lastReadAt": "2026-08-11T11:57:55.983Z",
+      "activeIssueId": "issue_comic_1786449210803_j91fj_2",
+      "activeIssueIndex": 1
+    }
+  ],
+  "collections": [
+    {
+      "id": "col_avengers",
+      "userId": "user_peter",
+      "name": "Avengers Protocol",
+      "color": "#ED1D24",
+      "comicIds": [],
+      "createdAt": "2026-08-11T11:49:47.743Z"
+    },
+    {
+      "id": "col_spider",
+      "userId": "user_peter",
+      "name": "Spider-Verse Archives",
+      "color": "#3B82F6",
+      "comicIds": [],
+      "createdAt": "2026-08-11T11:49:47.743Z"
+    }
+  ]
+}
