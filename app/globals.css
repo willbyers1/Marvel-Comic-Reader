@@ -1,0 +1,86 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Oswald:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+@layer base {
+  :root {
+    --font-comic-heading: 'Bangers', cursive;
+    --font-comic-subheading: 'Oswald', sans-serif;
+    --font-sans: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #0a0a0a;
+    color: #ffffff;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom High Density Theme Utility Classes */
+.halftone {
+  background-image: radial-gradient(rgba(237,29,36,0.15) 1px, transparent 0);
+  background-size: 4px 4px;
+}
+
+.comic-border {
+  border: 3px solid #000000;
+  box-shadow: 5px 5px 0px 0px #ED1D24;
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.comic-border:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px 0px #FFD700;
+}
+
+.comic-border-yellow {
+  border: 3px solid #000000;
+  box-shadow: 5px 5px 0px 0px #FFD700;
+}
+
+.comic-border-white {
+  border: 3px solid #000000;
+  box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.diagonal-stripe {
+  background: repeating-linear-gradient(45deg, #ED1D24, #ED1D24 10px, #d1191f 10px, #d1191f 20px);
+}
+
+.impact-text {
+  font-family: 'Arial Black', Gadget, sans-serif, var(--font-comic-heading);
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+}
+
+.skew-panel {
+  transform: skewX(-10deg);
+}
+
+/* Custom Marvel / Comic Typography Classes */
+.font-bangers {
+  font-family: var(--font-comic-heading);
+  letter-spacing: 0.05em;
+}
+
+.font-oswald {
+  font-family: var(--font-comic-subheading);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #ED1D24;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FFD700;
+}
