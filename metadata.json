@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Comics",
+  "description": "A Marvel superhero-themed digital comic book reader supporting CBZ, CBR, CB7, CBT, and CBA archives with page extraction, reading progress tracking, and an immersive comic reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
