@@ -1,4 +1,4 @@
-# 💥 PanelPulse
+# Marvel Comic Reader
 
 <div align="center">
 
