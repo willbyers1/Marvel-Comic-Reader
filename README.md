@@ -32,7 +32,7 @@
 * [React](https://react.dev/) – Frontend User Interface Library
 * [TypeScript](https://www.typescriptlang.org/) – Type-Safe Codebase
 * [Tailwind CSS](https://tailwindcss.com/) – Utility-First Responsive Styling
-* [Prisma](https://www.prisma.io/) – ORM for Database Management
+* [Supabase](www.supabase.com) – ORM for Database Management
 * [PostgreSQL](https://www.postgresql.org/) – Relational Database Engine
 * [Unzipper / Unrar](https://github.com/ZJONSSON/node-unzipper) – Archive Extraction Pipeline
 
@@ -42,8 +42,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/panelpulse.git
-   cd panelpulse
+   git clone https://github.com/willbyers1/marvel-comic-reader.git
+   cd marvel-comic-reader
    ```
 
 2. **Install dependencies**
