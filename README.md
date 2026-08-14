@@ -5,7 +5,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)
 
@@ -32,7 +31,7 @@
 * [React](https://react.dev/) – Frontend User Interface Library
 * [TypeScript](https://www.typescriptlang.org/) – Type-Safe Codebase
 * [Tailwind CSS](https://tailwindcss.com/) – Utility-First Responsive Styling
-* [Supabase](www.supabase.com) – ORM for Database Management
+* [Supabase](https://supabase.com/) – ORM for Database Management
 * [PostgreSQL](https://www.postgresql.org/) – Relational Database Engine
 * [Unzipper / Unrar](https://github.com/ZJONSSON/node-unzipper) – Archive Extraction Pipeline
 
